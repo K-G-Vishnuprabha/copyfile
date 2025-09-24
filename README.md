@@ -1,1 +1,6 @@
 # copyfile
+
+source,txt
+hello hi how are you?
+i am fine......
+i am an artist.....
